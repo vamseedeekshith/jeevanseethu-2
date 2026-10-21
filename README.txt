@@ -1,1 +1,0 @@
-Replace the repository root index.html with this index.html, commit, wait for GitHub Pages deployment, then hard-refresh (Ctrl+F5). The fix escapes the report print template's embedded </body> so JavaScript is not rendered as page text. Includes the current GPS/admin-search patch. Real emergency dispatch and cross-device sync require a shared backend.
